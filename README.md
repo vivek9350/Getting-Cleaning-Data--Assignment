@@ -7,7 +7,7 @@ Appropriately labeling the data set with descriptive activity names.
 Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 About R script
-File with R code "
+File with R code "Assignment.R"
 
 About variables:
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
